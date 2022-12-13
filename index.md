@@ -1,4 +1,4 @@
-# gdsc-niamt.github.io
-*Github Webpage of GDSC NIAMT*
+# GDSC-NIAMT.github.io
+*GitHub Webpage of GDSC NIAMT*
 
-**Introduction to Programming** [Simulating a Human](/Introduction-to-Programming)
+## **Introduction to Programming** [Simulating a Human](/Introduction-to-Programming)
